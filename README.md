@@ -46,4 +46,4 @@
 ## 📁 Αρχεία που περιλαμβάνονται
 
 - `Categorical_Data_Analysis.pdf`: Αναλυτική αναφορά της μελέτης
-- `R Scripts (Categorical_Data_Analysis - R-script)`: καθαρισμός δεδομένων, μοντελοποίηση, προβλέψεις
+- `R Scripts (Categorical_Data_Analysis - R-script)`: Καθαρισμός δεδομένων, μοντελοποίηση, προβλέψεις
